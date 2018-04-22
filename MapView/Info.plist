@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Onay Varmi</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Onay Varmi</string>
 </dict>
 </plist>
